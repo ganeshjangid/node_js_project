@@ -1,0 +1,16 @@
+{
+  "name": "login_small_project",
+  "version": "1.0.0",
+  "description": "This is login form with node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "ganesh suthar",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "express": "^4.17.1"
+  }
+}
